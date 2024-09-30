@@ -9,4 +9,7 @@ func main() {
 
 	// this is another commit fix directly in qa1.2.0 branch
 	println("Hello, World! from qa1.2.0 branch")
+
+	// this is a hotfix commit
+	println("Hello, World! from hotfix branch")
 }
