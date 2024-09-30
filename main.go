@@ -9,4 +9,9 @@ func main() {
 
 	// this is another commit fix directly in qa1.2.0 branch
 	println("Hello, World! from qa1.2.0 branch")
+
+	// continue working on the feature branch ...
+	println("Hello, World! from feature branch ...")
+
+	// this is a fix for qa1.3.0 branch
 }
