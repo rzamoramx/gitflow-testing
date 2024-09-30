@@ -12,4 +12,6 @@ func main() {
 
 	// continue working on the feature branch ...
 	println("Hello, World! from feature branch ...")
+
+	// this is a fix for qa1.3.0 branch
 }
