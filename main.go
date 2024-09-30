@@ -12,4 +12,6 @@ func main() {
 
 	// this is a hotfix commit
 	println("Hello, World! from hotfix branch")
+  
+  // this a second hot fix...
 }
